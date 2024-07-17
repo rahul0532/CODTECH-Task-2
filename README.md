@@ -71,3 +71,11 @@ The model achieves an accuracy of approximately 87% on the test set. Further ref
 
 
 ## OUTPUT
+![Screenshot 2024-07-18 011831](https://github.com/user-attachments/assets/f70796c6-3eed-48a8-bacf-88f66c8ed011)
+![Screenshot 2024-07-18 011817](https://github.com/user-attachments/assets/bb0459ab-06c3-47f5-becd-832b55f58f34)
+![Screenshot 2024-07-18 011757](https://github.com/user-attachments/assets/c222df47-2d36-4712-b3af-a5c84db6841a)
+![Screenshot 2024-07-18 011858](https://github.com/user-attachments/assets/c5f0b1fa-57f0-4472-ad5c-3d7f74a5a56a)
+![Screenshot 2024-07-18 011932](https://github.com/user-attachments/assets/7f85c33a-9d9a-4db5-b121-990e8186f218)
+![Screenshot 2024-07-18 011917](https://github.com/user-attachments/assets/5bddca47-d5af-4e3c-9a0c-9f1a5ec2c33f)
+
+
