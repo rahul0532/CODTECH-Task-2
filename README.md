@@ -1,4 +1,16 @@
-## **Overview of Sentiment Analysis on IMDb Reviews Using TensorFlow**
+**Name** : RAHUL RAJ MEKALA
+
+**Company** : CODTECH IT SOLUTIONS
+
+**ID** : CT4ML2534
+
+**Domain** : MACHINE LEARNING
+
+**Duration** : 20th June 2024 to 20 July 2024
+
+**Mentor** : NEELA SANTHOSH KUMAR
+
+## **Project Overview: ANALYSIS ON MOVIE REVIEWS**
 
 ## Objective:
 
